@@ -1,0 +1,1 @@
+This repository demonstrates a common ActionScript 3 error: attempting to return a value from a function declared with a void return type.  The `bug.as` file contains the erroneous code, while `bugSolution.as` shows the corrected version.  This error is frequently encountered by beginners, as it involves a fundamental understanding of function return types.
